@@ -1,0 +1,25 @@
+#--- Node.js
+node_modules/
+
+.env
+package-lock.json
+
+#--- TypeScript
+lib/
+
+#--- https://github.com/microsoft/typescript-go
+built/
+cmd/
+
+#--- Pythone
+__pycache__/
+.pytest_cache/
+dist/
+aistudio.egg-info/
+
+.pypirc
+
+#--- MacBook
+.DS_Store
+
+zz*
